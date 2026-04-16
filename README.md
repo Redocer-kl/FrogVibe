@@ -5,7 +5,7 @@ A real-time computer vision system that transforms human emotions and hand gestu
 The goal of this project was to bridge computer vision technology with brand identity, creating a low-latency interactive avatar for educational videos and online programming lessons.
 
 ## Key Features
-
+![FrogVibe Demo](assets/Preview.gif)
 * **Emotion Recognition**: Real-time facial expression analysis (Happy, Sad, Neutral) using deep learning models.
 * **Gesture Control**: Hand tracking and landmark detection to trigger specific avatar poses (Pointing, Peace sign).
 * **State Priority Logic**: Intelligent processing that prioritizes intentional hand gestures over facial expressions for precise presentation control.
